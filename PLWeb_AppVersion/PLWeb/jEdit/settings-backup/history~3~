@@ -1,0 +1,9 @@
+[action]
+global-options
+view-bufferset
+save
+undo
+plugin-options
+global-bufferset
+backspace
+next-char

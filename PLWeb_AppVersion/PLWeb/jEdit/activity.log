@@ -1,0 +1,114 @@
+Log file created on Wed Apr 29 22:16:43 CST 2015
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: When reporting bugs, please include the following information:
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: java.version=1.7.0_71
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: java.vm.version=24.71-b01
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: java.runtime.version=1.7.0_71-b14
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: java.runtime.name=Java(TM) SE Runtime Environment
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: java.vendor=Oracle Corporation
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: java.compiler=null
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: os.name=Windows 7
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: os.version=6.1
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: os.arch=amd64
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: user.home=C:\Users\PLWeb
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: java.home=C:\Program Files\Java\jre7
+下午 10:16:43 [AWT-EventQueue-0] [message] Log: java.class.path=C:\Users\PLWeb\workspace\PLWeb_AppVersion\bin;D:\Share\PLWebStart\plwebstart\libs\commons-httpclient-3.1.jar;D:\Share\PLWebStart\plwebstart\libs\ant-1.8.2.jar;D:\Share\PLWebStart\plwebstart\libs\jedit.jar;D:\Share\PLWebStart\plwebstart\libs\DJNativeSwing.jar;D:\Share\PLWebStart\plwebstart\libs\DJNativeSwing-SWT.jar;D:\Share\PLWebStart\plwebstart\libs\ant-launcher-1.8.2.jar;D:\Share\PLWebStart\plwebstart\libs\commons-codec-1.2.jar;D:\Share\PLWebStart\plwebstart\libs\commons-io-2.1.jar;D:\Share\PLWebStart\plwebstart\libs\commons-lang-2.6.jar;D:\Share\PLWebStart\plwebstart\libs\commons-logging-1.0.4.jar;D:\Share\PLWebStart\plwebstart\libs\gnu-regexp-1.1.4.jar;D:\Share\PLWebStart\plwebstart\libs\groovy-all-1.8.6.jar;D:\Share\PLWebStart\plwebstart\libs\json-simple-1.1.1.jar;D:\Share\PLWebStart\plwebstart\libs\plwebxml-1.0.jar
+下午 10:16:43 [AWT-EventQueue-0] [message] jEdit: starting with command line arguments: -settings=C:\Users\PLWeb\workspace\PLWeb_AppVersion.\PLWeb\jEdit -noserver -nobackground -gui -norestore -nostartupscripts -nosplash
+下午 10:16:43 [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\activity.log" to "C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\settings-backup\activity.log~1~"
+下午 10:16:43 [AWT-EventQueue-0] [notice] jEdit: jEdit version 4.5
+下午 10:16:43 [AWT-EventQueue-0] [message] jEdit: Settings directory is C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit
+下午 10:16:43 [AWT-EventQueue-0] [message] jEdit: jEdit home directory is C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\workspace
+下午 10:16:44 [AWT-EventQueue-0] [message] BeanShell: Beanshell Init
+下午 10:16:44 [AWT-EventQueue-0] [debug] GUIUtilities: Icon theme set to: tango
+下午 10:16:44 [AWT-EventQueue-0] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+下午 10:16:44 [AWT-EventQueue-0] [debug] ActionSet: Loading actions from jar:file:/D:/Share/PLWebStart/plwebstart/libs/jedit.jar!/org/gjt/sp/jedit/actions.xml
+下午 10:16:44 [AWT-EventQueue-0] [debug] DockableWindowManager: Loading dockables from jar:file:/D:/Share/PLWebStart/plwebstart/libs/jedit.jar!/org/gjt/sp/jedit/dockables.xml
+下午 10:16:44 [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+下午 10:16:44 [AWT-EventQueue-0] [notice] jEdit: Loading plugins from C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\workspace\jars
+下午 10:16:44 [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.2.2,source=C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\workspace\jars\BufferTabs.jar,class=buffertabs.BufferTabsPlugin]
+下午 10:16:44 [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.0,source=C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\workspace\jars\plwebedit-1.0.jar,class=org.plweb.jedit.CompilerPlugin]
+下午 10:16:44 [AWT-EventQueue-0] [notice] jEdit: Loading plugins from C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\jars
+下午 10:16:44 [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=0.8.1,source=C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\jars\AStylePlugin.jar,class=astyleplugin.AStylePlugin]
+下午 10:16:44 [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=0.7.0,source=C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\jars\Beauty.jar,class=beauty.BeautyPlugin]
+下午 10:16:44 [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=1.5,source=C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\jars\CommonControls.jar,class=CommonControlsPlugin]
+下午 10:16:44 [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=LOADED,exit=false,version=null,source=C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\jars\kappalayout.jar]
+下午 10:16:44 [AWT-EventQueue-0] [message] HistoryModel: Loading history
+下午 10:16:44 [AWT-EventQueue-0] [message] BufferHistory: Loading C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\recent.xml
+下午 10:16:44 [AWT-EventQueue-0] [message] KillRing: Loading C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\killring.xml
+下午 10:16:44 [AWT-EventQueue-0] [debug] jEdit: SOCKS proxy disabled
+下午 10:16:44 [AWT-EventQueue-0] [debug] jEdit: HTTP proxy disabled
+下午 10:16:45 [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+下午 10:16:45 [AWT-EventQueue-0] [message] jEdit: Loading mode catalog file C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\workspace\modes\catalog
+下午 10:16:45 [AWT-EventQueue-0] [message] jEdit: Loading mode catalog file C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\modes\catalog
+下午 10:16:45 [AWT-EventQueue-0] [debug] PluginJAR: Activating buffertabs.BufferTabsPlugin because of startup
+下午 10:16:45 [AWT-EventQueue-0] [debug] PluginJAR: Opening C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\workspace\jars\BufferTabs.jar
+下午 10:16:45 [AWT-EventQueue-0] [debug] PluginJAR: Activating org.plweb.jedit.CompilerPlugin because of startup
+下午 10:16:45 [AWT-EventQueue-0] [debug] PluginJAR: Opening C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\workspace\jars\plwebedit-1.0.jar
+下午 10:16:45 [AWT-EventQueue-0] [debug] Macros: Registered beanshell macro handler
+下午 10:16:45 [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+下午 10:16:45 [AWT-EventQueue-0] [warning] CompilerPlugin: org.plweb.jedit.CompilerPlugin should extend EditPlugin not EBPlugin since it has an empty handleMessage()
+下午 10:16:45 [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=1.2.2,source=C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\workspace\jars\BufferTabs.jar,class=buffertabs.BufferTabsPlugin]
+下午 10:16:45 [AWT-EventQueue-0] [debug] EditBus: PluginUpdate[what=ACTIVATED,exit=false,version=1.0,source=C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\workspace\jars\plwebedit-1.0.jar,class=org.plweb.jedit.CompilerPlugin]
+下午 10:16:45 [AWT-EventQueue-0] [message] PerspectiveManager: Loading C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\perspective.xml
+下午 10:16:45 [AWT-EventQueue-0] [notice] jEdit$3: Loading edit mode C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\modes\text.xml
+下午 10:16:46 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:46 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:46 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:46 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:46 [AWT-EventQueue-0] [debug] BufferSet: 1069582010: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+下午 10:16:46 [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+下午 10:16:46 [AWT-EventQueue-0] [debug] BufferSet: 1069582010 addBufferAt(Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\),-1)
+下午 10:16:46 [AWT-EventQueue-0] [debug] BufferSet: 1069582010: Buffer added Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\) at 0
+下午 10:16:46 [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+下午 10:16:46 [AWT-EventQueue-0] [debug] BufferSet: 1069582010: Buffer added Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\) at 0
+下午 10:16:46 [AWT-EventQueue-0] [debug] BufferSet: 1069582010: addBufferSetListener buffertabs.BufferTabs[Untitled-1 (new)]
+下午 10:16:46 [AWT-EventQueue-0] [debug] BufferSet: 1069582010 addBufferAt(Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\),0)
+下午 10:16:46 [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+下午 10:16:46 [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+下午 10:16:46 [AWT-EventQueue-0] [message] jEdit: Startup complete
+下午 10:16:46 [jEdit I/O #1] [debug] WorkThread: Work request thread starting [jEdit I/O #1]
+下午 10:16:46 [jEdit I/O #4] [debug] WorkThread: Work request thread starting [jEdit I/O #4]
+下午 10:16:46 [jEdit I/O #2] [debug] WorkThread: Work request thread starting [jEdit I/O #2]
+下午 10:16:46 [jEdit I/O #3] [debug] WorkThread: Work request thread starting [jEdit I/O #3]
+下午 10:16:46 [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+下午 10:16:46 [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+下午 10:16:46 [AWT-EventQueue-0] [debug] DockableWindowManager: Loading dockables from jeditresource:/plwebedit-1.0.jar!/dockables.xml
+下午 10:16:46 [AWT-EventQueue-0] [debug] EditBus: DockableWindowUpdate[what=ACTIVATED,dockable=infoviewer,source=org.gjt.sp.jedit.gui.DockableWindowManagerImpl[,6,6,975x672,invalid,layout=org.gjt.sp.jedit.gui.DockableLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]]
+下午 10:16:47 [Thread-4] [error] Thread-4: action=getStuMastery&userId=5196&lessonId=9&classId=2015300020&courseId=252
+下午 10:16:47 [Thread-4] [error] Thread-4: {"seq":{"3":"6, 4, 2, 3","2":"13","1":"5, 1, 7","5":"9","4":"11, 10, 12, 8"},"stuRecord":{"3":{"3":"false","2":"false","6":"false","4":"false","isPass":"false"},"2":{"13":"false","isPass":"false"},"1":{"currentIndex":"5","1":"false","7":"false","5":"false","isPass":"false"},"5":{"9":"false","isPass":"false"},"4":{"10":"false","8":"false","isPass":"false","11":"false","12":"false"}},"MasteryTime":{"2":754,"3":462,"4":289,"6":619,"9":1590,"13":609,"15":633,"17":400,"19":363,"18":1057,"21":610,"20":1325,"23":1155}}
+下午 10:16:47 [AWT-EventQueue-0] [debug] BufferSet: 1069582010: Buffer removed Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)
+下午 10:16:47 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:47 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:47 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:47 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:47 [AWT-EventQueue-0] [debug] BufferSet: 1069582010 addBufferAt(Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\),-1)
+下午 10:16:47 [AWT-EventQueue-0] [debug] BufferSet: 1069582010: Buffer added Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\) at 0
+下午 10:16:47 [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+下午 10:16:47 [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+下午 10:16:47 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSED,view=org.gjt.sp.jedit.View[active],source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:47 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=ex09.c (%USERPROFILE%\workspace\PLWeb_AppVersion\5196\2015300020\MasteryLearning_Java\9\)]
+下午 10:16:47 [AWT-EventQueue-0] [debug] BufferSet: 1069582010 addBufferAt(ex09.c (%USERPROFILE%\workspace\PLWeb_AppVersion\5196\2015300020\MasteryLearning_Java\9\),-1)
+下午 10:16:47 [jEdit I/O #4] [debug] WorkThread: Running in work thread: [id=1,run=org.gjt.sp.jedit.bufferio.BufferLoadRequest[ex09.c (%USERPROFILE%\workspace\PLWeb_AppVersion\5196\2015300020\MasteryLearning_Java\9\)]]
+下午 10:16:47 [AWT-EventQueue-0] [debug] BufferSet: 1069582010: Buffer added ex09.c (%USERPROFILE%\workspace\PLWeb_AppVersion\5196\2015300020\MasteryLearning_Java\9\) at 0
+下午 10:16:47 [AWT-EventQueue-0] [debug] BufferSetManager: removeBuffer(BufferSet[nbBuffers=2],Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\))
+下午 10:16:47 [AWT-EventQueue-0] [debug] BufferSet: 1069582010: Buffer removed Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)
+下午 10:16:47 [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+下午 10:16:47 [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+下午 10:16:48 [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\) is in no bufferSet anymore, closing it
+下午 10:16:48 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSING,view=null,source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:48 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSED,view=null,source=Untitled-1 (%USERPROFILE%\workspace\PLWeb_AppVersion\)]
+下午 10:16:48 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=ex09.c (%USERPROFILE%\workspace\PLWeb_AppVersion\5196\2015300020\MasteryLearning_Java\9\)]
+下午 10:16:48 [AWT-EventQueue-0] [debug] EditBus: DockableWindowUpdate[what=ACTIVATED,dockable=compiler,source=org.gjt.sp.jedit.gui.DockableWindowManagerImpl[,6,6,975x672,invalid,layout=org.gjt.sp.jedit.gui.DockableLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]]
+下午 10:16:48 [AWT-EventQueue-0] [notice] jEdit$3: Loading edit mode C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\modes\c.xml
+下午 10:16:48 [AWT-EventQueue-0] [notice] jEdit$3: Loading edit mode C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\modes\doxygen.xml
+下午 10:16:48 [AWT-EventQueue-0] [notice] jEdit$3: Loading edit mode C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\modes\xml.xml
+下午 10:16:48 [AWT-EventQueue-0] [notice] jEdit$3: Loading edit mode C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\modes\xml.xml
+下午 10:16:48 [AWT-EventQueue-0] [notice] jEdit$3: Loading edit mode C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\modes\doxygen.xml
+下午 10:16:48 [AWT-EventQueue-0] [notice] jEdit$3: Loading edit mode C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\modes\xml.xml
+下午 10:16:48 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=ex09.c (%USERPROFILE%\workspace\PLWeb_AppVersion\5196\2015300020\MasteryLearning_Java\9\)]
+下午 10:16:48 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=ex09.c (%USERPROFILE%\workspace\PLWeb_AppVersion\5196\2015300020\MasteryLearning_Java\9\)]
+下午 10:17:14 [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\perspective.xml" to "C:\Users\PLWeb\workspace\PLWeb_AppVersion\PLWeb\jEdit\settings-backup\perspective.xml~1~"
